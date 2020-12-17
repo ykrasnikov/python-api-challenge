@@ -21,6 +21,7 @@ Report is included in the notebook
 <img src="Images/hum_lat.png" align="center" width="200"/>
 
 Observations:
+
 Temperature Latitude scatter shows trend of temperature reduction with latitude scalar going up , and nothern hemisphere has longer tail as we van observe winter season.
 Humidity scatter is more ecenly spread on latitude, with some dense areas 
 
@@ -29,7 +30,8 @@ Humidity scatter is more ecenly spread on latitude, with some dense areas
 <img src="Images/cloud_lat.png" align="left" width="200"/>
 <img src="Images/wind_lat.png" align="center" width="200"/>
 
-Observations
+Observations:
+
 scatter of cloudiness vs latitude - we can observe some grouping around 0, 20, 40, 75, 90, 100% lines ... this could be due to the way cloudiness is measured/evaluated.
 scatter of wind speed vs latitude - we can observe some grouping below 10 mph
 
@@ -40,27 +42,34 @@ scatter of wind speed vs latitude - we can observe some grouping below 10 mph
 <img src="Images/temp_north_r.png" align="left" width="200"/>
 <img src="Images/temp_south_r.png" align="center" width="200"/>
 
-Observations
-we can observe ver strong positive correlation between latitude and temperature for S. Hemisphere , and even stronger negative correlation between latitude and temp in northern hemisphere ( due to winter time in Nothern hemisphere it is stornger)
+Observations:
+
+We can observe very strong positive correlation between latitude and temperature for S. Hemisphere , and even stronger negative correlation between latitude and temp in northern hemisphere ( due to winter time in Nothern hemisphere it is stornger)
 
 ### Humidity vs Latitude
 <img src="Images/hum_north_r.png" align="left" width="200"/>
 <img src="Images/hum_south_r.png" align="center" width="200"/>
 
-Observations
+Observations:
+
 Both hemisphere's humidity vs latitude correlations are positive , and northern hemispshere is somewhat stronger - coef of correlation 0.4 vs 0.2 . However this relationship might be affected by cloudiness
 
 ### Cloudiness vs Latitude
 <img src="Images/cloud_north_r.png" align="left" width="200"/>
 <img src="Images/cloud_south_r.png" align="center" width="200"/>
 
-Observations
+Observations:
+
 Both hemisphere's cloudiness vs latitude correlations are positive, but correlation is weak - similar to humidity
 
 
 ### Wind Speed vs Latitude
 <img src="Images/wind_north_r.png" align="left" width="200"/>
 <img src="Images/wind_south_r.png" align="center" width="200"/>
+
+Observations:
+
+both Hemispheres Wind Speed vs latitude correlations are weak
 
 #
 # Part 2 Weather_py
