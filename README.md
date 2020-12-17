@@ -3,7 +3,7 @@
 Python API Homework - What's the Weather Like?
 
 <img src="Images/anaconda.gif" align="left" height="210"/>
-<img src="Images/panda.gif" align="right" height="190"/>
+<img src="Images/panda.gif" align="right" height="210"/>
 <img src="Images/equatorsign.png" align="center" height="210"/>
 
 Code was created using **Jupiter Notebook 6.0.3 /Python 3.8.3**
@@ -52,3 +52,11 @@ Observations
 ### Wind Speed vs Latitude
 <img src="Images/wind_north_r.png" align="left" width="200"/>
 <img src="Images/wind_south_r.png" align="center" width="200"/>
+
+#
+# Part 2 Weather_py
+
+Heatmap of Humidity, Hotels labels indicating hotels with perfect weather conditions
+- temp: 75-85 deg F, almost no clouds, almost no wind
+
+<img src="Images/labeled_heatmapB.png" align="left" width="800"/>
