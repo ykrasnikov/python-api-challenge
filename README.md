@@ -17,36 +17,38 @@ Report is included in the notebook
 
 ### Temperature & Humidity vs Latitude
 
-<img src="Images/temp_lat.png" align="left" width="300"/>
-<img src="Images/hum_lat.png" align="right" width="300"/>
+<img src="Images/temp_lat.png" align="left" width="200"/>
+<img src="Images/hum_lat.png" align="center" width="200"/>
 
 Observations
 
 ### Cloudiness & Wind Speed vs Latitude
-<img src="Images/cloud_lat.png" align="left" width="300"/>
-<img src="Images/wind_lat.png" align="right" width="300"/>
+<img src="Images/cloud_lat.png" align="left" width="200"/>
+<img src="Images/wind_lat.png" align="center" width="200"/>
 
 Observations
 
 ## 2. Linear Regressions:
-Temperature vs Latitude
-<img src="Images/temp_north_r.png" align="left" width="300"/>
-<img src="Images/temp_south_r.png" align="right" width="300"/>
+
+### Temperature vs Latitude
+
+<img src="Images/temp_north_r.png" align="left" width="200"/>
+<img src="Images/temp_south_r.png" align="center" width="200"/>
 
 Observations
 
 ### Humidity vs Latitude
-<img src="Images/hum_north_r.png" align="left" width="300"/>
-<img src="Images/hum_south_r.png" align="right" width="300"/>
+<img src="Images/hum_north_r.png" align="left" width="200"/>
+<img src="Images/hum_south_r.png" align="center" width="200"/>
 
 Observations
 
 ### Cloudiness vs Latitude
-<img src="Images/cloud_north_r.png" align="left" width="300"/>
-<img src="Images/cloud_south_r.png" align="right" width="300"/>
+<img src="Images/cloud_north_r.png" align="left" width="200"/>
+<img src="Images/cloud_south_r.png" align="center" width="200"/>
 
 Observations
 
 ### Wind Speed vs Latitude
-<img src="Images/wind_north_r.png" align="left" width="300"/>
-<img src="Images/wind_south_r.png" align="right" width="300"/>
+<img src="Images/wind_north_r.png" align="left" width="200"/>
+<img src="Images/wind_south_r.png" align="center" width="200"/>
